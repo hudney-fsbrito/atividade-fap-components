@@ -15,9 +15,10 @@ export default function Home() {
 
       <Square />
       <Button name="Click"></Button>
-      <ListItens links={["Home", "About", "Contact"]} />
+      
       <ImgLog img={img}/>
       <Text text="Segue um texto bacana para um parágrafo."/>
+      
     </div>
   );
 }
