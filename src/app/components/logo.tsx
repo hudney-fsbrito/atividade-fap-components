@@ -1,13 +1,12 @@
 import Image from 'next/image'
-
-export function ImgLog(image:string){
+// import  img  from "../assets/pexels-starWars.jpg"
+export function ImgLog(image: {img:string}){
     return (
-    <picture >
-        {/* <img url={props.urlImg}></img> */}
+    <picture className='border border-cyan-700 max-w-40'>
         <Image 
-            src={image} 
+            src={image.img} 
             alt="Imagem bacana"
-            width={300}
+            width={200}
             height={200}
         />
     </picture>
