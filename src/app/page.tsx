@@ -6,6 +6,7 @@ import { Square } from "./components/square";
 import  img  from "./assets/pexels-starWars.jpg"
 import { Text } from "./components/text";
 import { Header } from "./components/header";
+import { Footer } from "./components/footer";
 
 export default function Home() {
   return (
@@ -18,7 +19,7 @@ export default function Home() {
       
       <ImgLog img={img}/>
       <Text text="Segue um texto bacana para um parágrafo."/>
-      
+      <Footer desc={"Hudney Brito"}/>
     </div>
   );
 }
