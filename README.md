@@ -2,7 +2,7 @@
 
 ### Criando componentes:
 
-```txt
+```
 1. Componente de Quadrado:
 Crie um componente chamado Quadrado que renderize um elemento <div> com uma cor de fundo,
 largura e altura fixas para representar um quadrado.
@@ -36,7 +36,7 @@ personalizáveis.
 
 #
 
-<video src="./src/app/assets/blob.mp4">
+<video src="./src/app/assets/blob.mp4"></video>
 
 #
 
