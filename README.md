@@ -1,3 +1,46 @@
+# Atividade didática do FAP
+
+### Criando componentes:
+
+```txt
+1. Componente de Quadrado:
+Crie um componente chamado Quadrado que renderize um elemento <div> com uma cor de fundo,
+largura e altura fixas para representar um quadrado.
+
+2. Componente de Título:
+Crie um componente chamado Titulo que renderize um título de página <h1> com um texto personalizável.
+
+3. Componente de Botão:
+Crie um componente chamado Botao que renderize um botão <button> com um texto
+personalizável e uma função de clique.
+
+4. Componente de Lista de Itens:
+Crie um componente chamado ListaItens que renderize uma lista não ordenada <ul> contendo uma
+série de itens de lista <li>, onde cada item pode ter um texto personalizável.
+5. Componente de Imagem:
+
+Crie um componente chamado Imagem que renderize uma imagem <img> com um URL de imagem
+personalizável e uma descrição alternativa.
+
+6. Componente de Parágrafo:
+Crie um componente chamado Paragrafo que renderize um parágrafo <p> com texto personalizável.
+
+7. Componente de Cabeçalho:
+Crie um componente chamado Cabecalho que renderize um cabeçalho <header> com um título e
+uma descrição personalizáveis.
+
+8. Componente de Rodapé:
+Crie um componente chamado Rodape que renderize um rodapé <footer> com informações
+personalizáveis.
+```
+
+#
+
+<video src="./src/app/assets/blob.mp4">
+
+#
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
