@@ -36,7 +36,7 @@ personalizáveis.
 
 #
 
-<video src="./src/app/assets/blob.mp4"></video>
+<video controls src="./src/app/assets/blob.mp4" type="video/mp4"></video>
 
 #
 
