@@ -1,6 +1,6 @@
 "use client"
 import { Button } from "./components/button";
-import { ImgLog } from "./components/logo";
+import { ImgLog } from "./components/image";
 import { Square } from "./components/square";
 import  img  from "./assets/pexels-starWars.jpg"
 import { Text } from "./components/text";
@@ -9,7 +9,7 @@ import { Footer } from "./components/footer";
 
 export default function Home() {
   return (
-    <div className="border border-gray-800 flex flex-col grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20 font-[family-name:var(--font-geist-sans)]">
+    <div className="border border-gray-800 flex flex-col grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen gap-16 font-[family-name:var(--font-geist-sans)]">
       <Header />
       <Square />
       <Button name="Click"></Button>
